@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+    opacity: 0.8;
+  }
+  
+  tr.mat-header-row {
+    background-color: #673ab7;
+  }
+  
+  th.mat-header-cell {
+    color: rgb(10, 8, 8);
+    font-size: 15px;
+  }
+  
+  tr.mat-row:hover:not(.active) {
+    background-color: #cfd3ce;
+    color: black;
+  }
+  
